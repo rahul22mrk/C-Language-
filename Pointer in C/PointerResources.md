@@ -1,4 +1,5 @@
-Pointers:
+#Pointers:
+
 Introduction To Pointers- https://www.geeksforgeeks.org/c-pointers/
 
 Declaration and operation-https://www.javatpoint.com/pointer-arithmetic-in-c
@@ -17,9 +18,10 @@ pointers and structures-https://www.geeksforgeeks.org/structure-pointer-in-c/
 
 self referential structures -https://www.geeksforgeeks.org/self-referential-structures/
      
-     
-     
-Practice:
+
+
+#Practice:
+
 CodeForWin- https://codeforwin.org/c-programming/pointer-programming-exercises-and-solutions-in-c
 
 W3recource- https://www.w3resource.com/c-programming-exercises/pointer/index.php
@@ -28,7 +30,7 @@ CodingNinja- https://www.codingninjas.com/codestudio/problem-lists/top-pointers-
 
  
 
-Refrence-
+#Refrence-
 1. GeeksForGeeks https://www.geeksforgeeks.org/c-programming-language/
 2. JavaTPoint https://www.javatpoint.com/c-programming-language-tutorial
 3. Programiz https://www.programiz.com/c-programming
