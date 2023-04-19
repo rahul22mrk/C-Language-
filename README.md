@@ -22,7 +22,7 @@
      
 
 
-# Practice:
+## Practice:
 
 ### CodeForWin- https://codeforwin.org/c-programming/pointer-programming-exercises-and-solutions-in-c
 
@@ -32,7 +32,7 @@
 
  
 
-# Refrence-
+## Refrence-
 1. GeeksForGeeks https://www.geeksforgeeks.org/c-programming-language/
 2. JavaTPoint https://www.javatpoint.com/c-programming-language-tutorial
 3. Programiz https://www.programiz.com/c-programming
