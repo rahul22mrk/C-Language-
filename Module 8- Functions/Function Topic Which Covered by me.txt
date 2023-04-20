@@ -1,0 +1,47 @@
+8.1 Introduction
+	what is function
+	why do we need functions?
+	Important Points
+	Advantages of function
+	Disadvantages of function
+8.2. Classification of function
+	Standard Library Functions
+	User-Defined Functions
+8.3. Standard Library Functions
+	Advatange of using library function
+	Example
+8.4. User-Defined Function
+	Advantage of user defined function
+	Example of User defined function
+8.5 Function Prototype
+8.6 Function Definition
+8.7 Function Call
+8.8 How the C Function Works?
+8.9 Passing Parameters to Functions
+	Pass by Value
+	Pass by Reference
+8.10. Types Of User-Defined Function
+	Function With No Arguments and No Return Value
+	Function With No Arguments and a Return Value
+	Function With Arguments and No Return Value
+	Function With Arguments and a Return Value
+	Which Approach is Better
+8.11 Function With Arrays
+	Passing One-Dimensional Array in function
+	Passing Multidimensional Arrays to a function
+	Important points 
+8.12 Function With String
+	
+	Passing one Dimensional String to a function
+	Passing two Dimensional String to a function
+8.13 Recursive Functions
+	What is the Base Condition?
+	Recursive Case
+	How Recursion Works?
+	Example
+	Memory Allocation of Recursive Method
+	Advantage and Disadvantage Of Recursion
+8.14 Mostly Asked Questions From Functions
+8.15 Bonus (Write a Function and use it in other Program)
+
+ 
